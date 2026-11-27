@@ -1,0 +1,9 @@
+kit/
+kit.tar.gz
+REPORT.md
+transcripts*.tar.gz
+comp1.json
+titles.json
+requirements.json
+prompt-user.txt
+output/

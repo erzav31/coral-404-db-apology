@@ -1,0 +1,1 @@
+{"description":"The Production Database Apology — one original apology line from an AI agent that deleted the production database, written to /output/entry.txt","license":"MIT","main":"main.ts","name":"coral-404-db-apology","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
